@@ -14,3 +14,6 @@ C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\bin\Debug
 C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.csprojResolveAssemblyReference.cache
 C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.Properties.Resources.resources
 C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.csproj.GenerateResource.Cache
+D:\Experiments\CheckersEngine\src\CheckersSimulator\bin\Debug\CheckersSimulator.exe.config
+D:\Experiments\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.exe
+D:\Experiments\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.pdb
