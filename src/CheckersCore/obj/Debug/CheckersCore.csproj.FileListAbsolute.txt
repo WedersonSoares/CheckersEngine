@@ -1,0 +1,9 @@
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersCore\bin\Debug\CheckersCore.dll
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersCore\bin\Debug\CheckersCore.pdb
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersCore\obj\Debug\CheckersCore.dll
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersCore\obj\Debug\CheckersCore.pdb
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\bin\Debug\CheckersCore.dll
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\bin\Debug\CheckersCore.pdb
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\obj\Debug\CheckersCore.csprojResolveAssemblyReference.cache
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\obj\Debug\CheckersCore.dll
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\obj\Debug\CheckersCore.pdb

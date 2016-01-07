@@ -1,0 +1,16 @@
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\bin\Debug\CheckersSimulator.exe.config
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\bin\Debug\CheckersSimulator.exe
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\bin\Debug\CheckersSimulator.pdb
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.csprojResolveAssemblyReference.cache
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.Properties.Resources.resources
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.csproj.GenerateResource.Cache
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.exe
+c:\users\iana\documents\visual studio 2015\Projects\CheckersSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.pdb
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\bin\Debug\CheckersSimulator.exe.config
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.exe
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.pdb
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\bin\Debug\CheckersSimulator.exe
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\bin\Debug\CheckersSimulator.pdb
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.csprojResolveAssemblyReference.cache
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.Properties.Resources.resources
+C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug\CheckersSimulator.csproj.GenerateResource.Cache
