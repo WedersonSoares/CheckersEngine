@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CheckersCore.Movements
 {
-	public class Move
-	{
-	}
+    public class Walk : Move
+    {
+    }
 }

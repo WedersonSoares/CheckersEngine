@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Movements\Jump.cs" />
     <Compile Include="Movements\Move.cs" />
+    <Compile Include="Movements\Walk.cs" />
     <Compile Include="Pieces\States\King.cs" />
     <Compile Include="Pieces\States\Blocked.cs" />
     <Compile Include="Pieces\States\Dead.cs" />

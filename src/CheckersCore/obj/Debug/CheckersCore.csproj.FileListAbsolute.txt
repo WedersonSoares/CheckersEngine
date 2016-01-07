@@ -7,3 +7,8 @@ C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\bin\Debug\Chec
 C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\obj\Debug\CheckersCore.csprojResolveAssemblyReference.cache
 C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\obj\Debug\CheckersCore.dll
 C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersCore\obj\Debug\CheckersCore.pdb
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersCore\bin\Debug\CheckersCore.dll
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersCore\bin\Debug\CheckersCore.pdb
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersCore\obj\Debug\CheckersCore.csprojResolveAssemblyReference.cache
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersCore\obj\Debug\CheckersCore.dll
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersCore\obj\Debug\CheckersCore.pdb

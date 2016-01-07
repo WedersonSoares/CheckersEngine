@@ -17,3 +17,11 @@ C:\Users\wederson\Documents\MyStuff\CheckerSimulator\CheckersSimulator\obj\Debug
 D:\Experiments\CheckersEngine\src\CheckersSimulator\bin\Debug\CheckersSimulator.exe.config
 D:\Experiments\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.exe
 D:\Experiments\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.pdb
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\bin\Debug\CheckersSimulator.exe.config
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\bin\Debug\CheckersSimulator.exe
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\bin\Debug\CheckersSimulator.pdb
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.csprojResolveAssemblyReference.cache
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.Properties.Resources.resources
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.csproj.GenerateResource.Cache
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.exe
+C:\Users\IANA\Documents\Experimentos\CheckersEngine\src\CheckersSimulator\obj\Debug\CheckersSimulator.pdb
