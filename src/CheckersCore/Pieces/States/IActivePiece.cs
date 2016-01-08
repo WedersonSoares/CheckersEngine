@@ -1,8 +1,9 @@
 ﻿namespace CheckersCore.Pieces.States
 {
-	public interface IActivePiece
-	{
-		void IdentifyPossibleMoves();
-		void Die();
-	}
+    public interface IActivePiece
+    {
+        void IdentifyPossibleMoves();
+
+        void Die();
+    }
 }

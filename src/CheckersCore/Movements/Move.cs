@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CheckersCore.Movements
+﻿namespace CheckersCore.Movements
 {
-	public class Move
-	{
-	}
+    public abstract class Move
+    {
+        private MoveState MoveState { get; set; }
+
+        public abstract void Execute();
+
+        public abstract void Undo();
+    }
 }

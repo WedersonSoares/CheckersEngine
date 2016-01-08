@@ -1,6 +1,6 @@
 ﻿namespace CheckersCore.Pieces.States
 {
-	public class Dead : PieceState
-	{
-	}
+    public class Dead : PieceState
+    {
+    }
 }

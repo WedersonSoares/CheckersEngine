@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Movements\Direction.cs" />
     <Compile Include="Movements\Jump.cs" />
     <Compile Include="Movements\Move.cs" />
+    <Compile Include="Movements\MoveState.cs" />
     <Compile Include="Movements\Walk.cs" />
     <Compile Include="Pieces\States\King.cs" />
     <Compile Include="Pieces\States\Blocked.cs" />
@@ -50,14 +52,16 @@
     <Compile Include="Pieces\States\Free.cs" />
     <Compile Include="Pieces\States\IActivePiece.cs" />
     <Compile Include="Pieces\Piece.cs" />
-    <Compile Include="Pieces\States\PieceState.cs" />
-    <Compile Include="Table\EmptySquare.cs" />
-    <Compile Include="Table\OccupiedSquare.cs" />
-    <Compile Include="Table\Square.cs" />
+    <Compile Include="Pieces\PieceState.cs" />
+    <Compile Include="Squares\States\Blind.cs" />
+    <Compile Include="Squares\States\Empty.cs" />
+    <Compile Include="Squares\States\Occupied.cs" />
+    <Compile Include="Squares\Square.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Table\SquareState.cs" />
+    <Compile Include="Squares\SquareState.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Diagrams\Movement.cd" />
     <None Include="Diagrams\Piece.cd" />
     <None Include="Diagrams\Square.cd" />
   </ItemGroup>
