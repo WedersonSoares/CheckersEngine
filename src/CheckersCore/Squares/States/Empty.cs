@@ -1,6 +1,6 @@
-﻿namespace CheckersCore.Squares
+﻿namespace CheckersCore.Squares.States
 {
-    public class EmptySquare : SquareState
+    public class EmptySquare : SquareState, IActiveSquare
     {
     }
 }

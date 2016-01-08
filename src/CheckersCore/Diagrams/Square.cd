@@ -1,34 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="CheckersCore.Table.EmptySquare" Collapsed="true">
-    <Position X="6.25" Y="2.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Table\EmptySquare.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="CheckersCore.Table.OccupiedSquare" Collapsed="true">
-    <Position X="8.5" Y="2.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Table\OccupiedSquare.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="CheckersCore.Table.Square">
-    <Position X="3" Y="1" Width="1.5" />
+  <Class Name="CheckersCore.Squares.Square" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
-      <FileName>Table\Square.cs</FileName>
+      <FileName>Squares\Square.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="State" />
-    </ShowAsAssociation>
   </Class>
-  <Class Name="CheckersCore.Table.SquareState" Collapsed="true">
-    <Position X="7.5" Y="1" Width="1.5" />
+  <Class Name="CheckersCore.Squares.SquareState" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAQAAAAA=</HashCode>
-      <FileName>Table\SquareState.cs</FileName>
+      <FileName>Squares\SquareState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckersCore.Squares.States.EmptySquare" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Squares\States\Empty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CheckersCore.Squares.States.OccupiedSquare" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Squares\States\Occupied.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CheckersCore.Squares.States.Blind" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Squares\States\Blind.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

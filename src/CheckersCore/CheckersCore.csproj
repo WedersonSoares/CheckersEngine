@@ -55,6 +55,7 @@
     <Compile Include="Pieces\PieceState.cs" />
     <Compile Include="Squares\States\Blind.cs" />
     <Compile Include="Squares\States\Empty.cs" />
+    <Compile Include="Squares\States\IActiveSquare.cs" />
     <Compile Include="Squares\States\Occupied.cs" />
     <Compile Include="Squares\Square.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

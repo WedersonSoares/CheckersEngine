@@ -29,15 +29,12 @@
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
       <FileName>Pieces\Piece.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="state" />
-    </ShowAsAssociation>
   </Class>
-  <Class Name="CheckersCore.Pieces.States.PieceState" Collapsed="true">
-    <Position X="7.5" Y="1.75" Width="1.5" />
+  <Class Name="CheckersCore.Pieces.PieceState" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Pieces\States\PieceState.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pieces\PieceState.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="CheckersCore.Pieces.States.IActivePiece" Collapsed="true">
