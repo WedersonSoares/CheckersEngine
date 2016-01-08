@@ -3,3 +3,4 @@
 /src/CheckersSimulator/obj/
 /src/CheckersSimulator/bin/
 /src/.vs/CheckersSimulator/v14
+*.user
