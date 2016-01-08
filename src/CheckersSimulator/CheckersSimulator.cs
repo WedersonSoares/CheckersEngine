@@ -2,9 +2,9 @@
 
 namespace CheckersSimulator
 {
-    public partial class Form1 : Form
+    public partial class CheckersSimulator : Form
     {
-        public Form1()
+        public CheckersSimulator()
         {
             InitializeComponent();
         }
