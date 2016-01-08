@@ -1,5 +1,5 @@
 /src/CheckersCore/bin
 /src/CheckersCore/obj
-/src/CheckersSimulator/obj/Debug
-/src/CheckersSimulator/bin/Debug
+/src/CheckersSimulator/obj/
+/src/CheckersSimulator/bin/
 /src/.vs/CheckersSimulator/v14
