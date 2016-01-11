@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AI\MinMaxAlgorithm.cs" />
     <Compile Include="Movements\Direction.cs" />
     <Compile Include="Movements\Jump.cs" />
     <Compile Include="Movements\Move.cs" />

@@ -53,16 +53,31 @@
     <Reference Include="WindowsFormsIntegration" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CheckersSimulator.cs">
+    <Compile Include="Checker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Checker.Designer.cs">
+      <DependentUpon>Checker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckersSimulator.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CheckersSimulator.Designer.cs">
-      <DependentUpon>CheckersSimulator.cs</DependentUpon>
+    <Compile Include="frmCheckersSimulator.Designer.cs">
+      <DependentUpon>frmCheckersSimulator.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="CheckersSimulator.resx">
-      <DependentUpon>CheckersSimulator.cs</DependentUpon>
+    <Compile Include="Square.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Square.Designer.cs">
+      <DependentUpon>Square.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Checker.resx">
+      <DependentUpon>Checker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckersSimulator.resx">
+      <DependentUpon>frmCheckersSimulator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -74,6 +89,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Square.resx">
+      <DependentUpon>Square.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -86,6 +104,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_checker.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

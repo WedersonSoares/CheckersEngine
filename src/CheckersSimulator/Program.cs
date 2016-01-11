@@ -13,7 +13,7 @@ namespace CheckersSimulator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CheckersSimulator());
+            Application.Run(new frmCheckersSimulator());
         }
     }
 }
